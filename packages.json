@@ -7,7 +7,7 @@
                 "source" : {
                     "type": "git",
                     "url": "https://git.yanda.agency/seb_grant/Laravel.git",
-                    "reference": "master"
+                    "reference": "8.x"
                 }
             }
         }
