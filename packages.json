@@ -1,0 +1,10 @@
+{
+    "packages" : {
+        "name" : "laravel/laravel",
+        "version": "8.6.9",
+        "dist" : {
+            "url": "https://git.yanda.agency/seb_grant/Laravel.git",
+            "type": "git"
+        }
+    }
+}
