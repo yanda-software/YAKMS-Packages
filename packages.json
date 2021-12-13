@@ -10,6 +10,22 @@
                     "reference": "8.x"
                 }
             }
-        }
+        },
+        "yandasoftware/yakms-core":{
+            "0.0.1": {
+                "name": "yandasoftware/yakms-core",
+                "version":"0.0.1",
+                "source" : {
+                    "type":"git",
+                    "url":"https://git.yanda.agency/yanda-software/YAKMS-Core.git",
+                    "reference": "master"
+                }
+            }
+        },
+        "yakms/plugin-analytics":{},
+        "yakms/plugin-blog":{},
+        "yakms/plugin-pages":{},
+        "yakms/plugin-portfolio":{},
+        "yakms/plugin-recruitment":{}
     }
 }
