@@ -1,6 +1,6 @@
 {
     "packages" : {
-        "yandasofrware/yakms-installer": {
+        "yandasoftware/yakms-installer": {
             "0.0.1": {
                 "name": "yandasoftware/yakms-installer",
                 "version": "0.0.1",
