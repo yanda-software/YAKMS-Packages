@@ -1,17 +1,34 @@
 {
     "packages" : {
         "yandasoftware/yakms-installer": {
-            "0.0.1": {
+            "0.0.2": {
                 "name": "yandasoftware/yakms-installer",
-                "version": "0.0.1",
+                "version": "0.0.2",
                 "source": {
                     "type": "git",
-                    "url": "https://git.yanda.agency/yanda-software/yakms-installer.git",
+                    "url": "https://git.yanda.agency/yanda-software/YAKMS-Installer.git",
                     "reference": "master"
+                },
+                "dist": {
+                    
                 }
             }
         },
         "yandasoftware/yakms-core":{
+
+            "next": {
+                "name": "yandasoftware/yakms-core",
+                "version":"0.0.1",
+                "source" : {
+                    "type":"git",
+                    "url":"https://git.yanda.agency/yanda-software/YAKMS-Core.git",
+                    "reference": "develop"
+                },
+                "dist": {
+
+                }
+            },
+
             "0.0.1": {
                 "name": "yandasoftware/yakms-core",
                 "version":"0.0.1",
@@ -19,6 +36,9 @@
                     "type":"git",
                     "url":"https://git.yanda.agency/yanda-software/YAKMS-Core.git",
                     "reference": "master"
+                },
+                "dist": {
+
                 }
             }
         },
