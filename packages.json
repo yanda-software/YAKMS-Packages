@@ -8,9 +8,6 @@
                     "type": "git",
                     "url": "https://git.yanda.agency/yanda-software/YAKMS-Installer.git",
                     "reference": "master"
-                },
-                "dist": {
-                    
                 }
             }
         },
@@ -23,9 +20,6 @@
                     "type":"git",
                     "url":"https://git.yanda.agency/yanda-software/YAKMS-Core.git",
                     "reference": "develop"
-                },
-                "dist": {
-
                 }
             },
 
@@ -36,9 +30,6 @@
                     "type":"git",
                     "url":"https://git.yanda.agency/yanda-software/YAKMS-Core.git",
                     "reference": "master"
-                },
-                "dist": {
-
                 }
             }
         },
