@@ -13,6 +13,15 @@
         },
         "yandasoftware/yakms-core":{
 
+            "dev-master": {
+                "name": "yandasoftware/yakms-core",
+                "version":"dev-master",
+                "source" : {
+                    "type":"git",
+                    "url":"https://git.yanda.agency/yanda-software/YAKMS-Core.git",
+                    "reference": "develop"
+                }
+            },
             "0.0.2": {
                 "name": "yandasoftware/yakms-core",
                 "version":"0.0.2",
