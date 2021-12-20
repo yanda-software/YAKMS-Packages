@@ -15,7 +15,7 @@
 
             "next": {
                 "name": "yandasoftware/yakms-core",
-                "version":"0.0.1",
+                "version":"next",
                 "source" : {
                     "type":"git",
                     "url":"https://git.yanda.agency/yanda-software/YAKMS-Core.git",
