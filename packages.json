@@ -13,13 +13,13 @@
         },
         "yandasoftware/yakms-core":{
 
-            "local" : {
+            "dev-local" : {
                 "name":"yandasoftware/yakms-core",
-                "version":"local",
+                "version":"dev-local",
                 "source":{
                     "type": "path",
                     "url" : "~/Developer/YANDA/products/YAKMS/YAKMS-Core",
-                    "reference": "local"
+                    "reference": "dev-local"
                 }
 
             },
@@ -57,11 +57,11 @@
         "yakms/plugin-pages":{
             "local" : {
                 "name":"yandasoftware/yakms-plugin-pages",
-                "version":"local",
+                "version":"dev-local",
                 "source":{
                     "type": "path",
                     "url" : "~/Developer/YANDA/products/YAKMS/YAKMS-Plugin-Pages",
-                    "reference": "local"
+                    "reference": "dev-local"
                 }
             }
         },
