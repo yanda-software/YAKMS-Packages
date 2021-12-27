@@ -13,13 +13,23 @@
         },
         "yandasoftware/yakms-core":{
 
-            "dev-master": {
+            "local" : {
+                "name":"yandasoftware/yakms-core",
+                "version":"local",
+                "source":{
+                    "type": "path",
+                    "url" : "~/Developer/YANDA/products/YAKMS/YAKMS-Core",
+                    "reference": "local"
+                }
+
+            },
+            "dev-main": {
                 "name": "yandasoftware/yakms-core",
-                "version":"dev-master",
+                "version":"dev-main",
                 "source" : {
                     "type":"git",
-                    "url":"https://git.yanda.agency/yanda-software/YAKMS-Core.git",
-                    "reference": "develop"
+                    "url":"https://github.com/yanda-software/YAKMS-Core",
+                    "reference": "dev-main"
                 }
             },
             "0.0.2": {
@@ -44,7 +54,17 @@
         },
         "yakms/plugin-analytics":{},
         "yakms/plugin-blog":{},
-        "yakms/plugin-pages":{},
+        "yakms/plugin-pages":{
+            "local" : {
+                "name":"yandasoftware/yakms-plugin-pages",
+                "version":"local",
+                "source":{
+                    "type": "path",
+                    "url" : "~/Developer/YANDA/products/YAKMS/YAKMS-Plugin-Pages",
+                    "reference": "local"
+                }
+            }
+        },
         "yakms/plugin-portfolio":{},
         "yakms/plugin-recruitment":{}
     }
