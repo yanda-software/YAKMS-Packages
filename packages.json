@@ -18,7 +18,7 @@
                 "version":"dev-local",
                 "dist":{
                     "type": "path",
-                    "url" : "../../Developer/YANDA/products/YAKMS/YAKMS-Core",
+                    "url" : "./YAKMS-Core",
                     "reference": "dev-local"
                 }
 
@@ -60,7 +60,7 @@
                 "version":"dev-local",
                 "dist":{
                     "type": "path",
-                    "url" : "../../Developer/YANDA/products/YAKMS/YAKMS-Plugin-Pages",
+                    "url" : "./YAKMS-Plugin-Pages",
                     "reference": "dev-local"
                 }
             }
