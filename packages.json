@@ -16,7 +16,7 @@
             "dev-local" : {
                 "name":"yandasoftware/yakms-core",
                 "version":"dev-local",
-                "source":{
+                "dist":{
                     "type": "path",
                     "url" : "~/Developer/YANDA/products/YAKMS/YAKMS-Core",
                     "reference": "dev-local"
@@ -58,7 +58,7 @@
             "local" : {
                 "name":"yandasoftware/yakms-plugin-pages",
                 "version":"dev-local",
-                "source":{
+                "dist":{
                     "type": "path",
                     "url" : "~/Developer/YANDA/products/YAKMS/YAKMS-Plugin-Pages",
                     "reference": "dev-local"
