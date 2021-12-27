@@ -63,6 +63,15 @@
                     "url" : "../YAKMS-Plugin-Pages",
                     "reference": "dev-local"
                 }
+            },
+            "dev-main" : {
+                "name":"yandasoftware/yakms-plugin-pages",
+                "version":"dev-main",
+                "source":{
+                    "type": "git",
+                    "url" : "https://github.com/yanda-software/YAKMS-Plugin-Pages",
+                    "reference": "dev-main"
+                }
             }
         },
         "yakms/plugin-portfolio":{},
