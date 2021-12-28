@@ -60,8 +60,7 @@
                 "version":"dev-local",
                 "dist":{
                     "type": "path",
-                    "url" : "../YAKMS-Plugin-Pages",
-                    "reference": "dev-local"
+                    "url" : "../YAKMS-Plugin-Pages"
                 }
             },
             "dev-main" : {
