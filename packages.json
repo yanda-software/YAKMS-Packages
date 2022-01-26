@@ -37,8 +37,8 @@
                 "version":"0.0.2",
                 "source" : {
                     "type":"git",
-                    "url":"https://git.yanda.agency/yanda-software/YAKMS-Core.git",
-                    "reference": "develop"
+                    "url":"https://github.com/yanda-software/YAKMS-Core",
+                    "reference": "main"
                 }
             },
 
@@ -47,8 +47,8 @@
                 "version":"0.0.1",
                 "source" : {
                     "type":"git",
-                    "url":"https://git.yanda.agency/yanda-software/YAKMS-Core.git",
-                    "reference": "master"
+                    "url":"https://github.com/yanda-software/YAKMS-Core",
+                    "reference": "main"
                 }
             }
         },
